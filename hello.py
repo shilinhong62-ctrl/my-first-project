@@ -9,5 +9,6 @@ def main():
     """主函数"""
     print(greet("World"))
     print(greet("github"))
+    print(greet("Python"))
 if __name__ == "__main__":  
     main()
